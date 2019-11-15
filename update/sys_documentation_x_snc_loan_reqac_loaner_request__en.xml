@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Loaner Request" language="en" table="x_snc_loan_reqac_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Loaner Request</label>
+            <language>en</language>
+            <name>x_snc_loan_reqac_loaner_request</name>
+            <plural>Loaner Requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-15 06:04:14</sys_created_on>
+            <sys_id>9572b2b6db8dc010ab01de06f49619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Loaner Request</sys_name>
+            <sys_package display_value="Loan Request" source="x_snc_loan_reqac">f5f0bef2db8dc010ab01de06f4961957</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loan Request">f5f0bef2db8dc010ab01de06f4961957</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_loan_reqac_loaner_request__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-15 06:04:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
